@@ -1,2 +1,3 @@
 # Inda-0---Hello-World-
-Testing diferent programing languages in simpel and easy ways.
+Testing different programming languages in simple and easy ways.
+Also testing how to branch.
